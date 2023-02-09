@@ -1,0 +1,88 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.card-one {
+  background-image: url(../images/terrain.jpg);
+  padding: 5px 10px;
+  background-size: cover;
+  width: 300px;
+  height: 400px;
+  text-align: center;
+  flex-direction: column;
+  border-radius: 7px;
+  display: flex;
+  align-items:center;
+  justify-content:center;
+  color: white;
+  opacity: 85%;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+  text-shadow: 2px 2px 2px rgb(31, 30, 30);
+  transition: 0.5s;
+  margin: 10px 10px;
+}
+
+.card-one:hover {
+  width: 350px;
+  height: 450px;
+  opacity: 100%;
+  transition: 0.5s;
+}
+
+.card-two {
+  background-image: url(../images/devis.jpg);
+  padding: 5px 10px;
+  background-size: cover;
+  width: 300px;
+  height: 400px;
+  text-align: center;
+  flex-direction: column;
+  border-radius: 7px;
+  display: flex;
+  align-items:center;
+  justify-content:center;
+  color: white;
+  opacity: 85%;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+  text-shadow: 2px 2px 2px rgb(31, 30, 30);
+  transition: 0.5s;
+  margin: 10px 10px;
+}
+
+.card-two:hover {
+  width: 350px;
+  height: 450px;
+  opacity: 100%;
+  transition: 0.5s;
+}
+
+.card-three {
+  background-image: url(../images/travaux.jpg);
+  padding: 5px 10px;
+  background-size: cover;
+  width: 300px;
+  height: 400px;
+  text-align: center;
+  flex-direction: column;
+  border-radius: 7px;
+  display: flex;
+  align-items:center;
+  justify-content:center;
+  color: white;
+  opacity: 85%;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+  text-shadow: 2px 2px 2px rgb(31, 30, 30);
+  transition: 0.5s;
+  margin: 10px 10px;
+}
+
+.card-three:hover {
+  width: 350px;
+  height: 450px;
+  opacity: 100%;
+  transition: 0.5s;
+}

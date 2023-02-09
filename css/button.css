@@ -1,0 +1,16 @@
+.primary-btn {
+  padding: 1px 30px;
+  border-radius: 40px;
+  font-size: 16px;
+  font-weight: 700;
+  width: 300px;
+  color:  #fcf5ed;
+  background-color: black;
+  opacity: 80%;
+  position: relative;
+  top: 130px;
+}
+
+.primary-btn:hover {
+  width: 700px;
+}

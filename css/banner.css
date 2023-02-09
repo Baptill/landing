@@ -1,0 +1,22 @@
+.banner {
+  overflow: hidden;
+  width: 100%;
+  height: 600px;
+  background-image: url("../images/architecte-house.jpg");
+  background-size: cover;
+  background-position: 0px -200px;
+  color: #fcf5ed;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.banner p {
+  text-shadow: 2px 2px 2px rgb(31, 30, 30);
+  font-weight: 700;
+}
+
+.banner h1 {
+  text-shadow: 0 7px 12px rgb(31 30 30);
+  font-size: 60px;
+}
